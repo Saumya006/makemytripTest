@@ -1,0 +1,59 @@
+22:03:38.716 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched lowest price.
+22:03:41.658 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on GiftCards.
+22:03:43.350 [main] INFO  testCases.TC04_SenderDetailsTest - Selected Wedding GiftCard.
+22:03:47.137 [main] INFO  testCases.TC04_SenderDetailsTest - Filled up sender's and recipient's details.
+22:03:48.022 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched Alert message.
+22:03:50.329 [main] INFO  testCases.TC04_SenderDetailsTest - Directed to Hotels page.
+22:03:54.834 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched number of adults.
+23:04:48.452 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+23:04:51.368 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'From' city.
+23:04:53.289 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'To' City.
+23:04:54.355 [main] INFO  testCases.TC04_SenderDetailsTest - Entered date.
+23:04:56.681 [main] INFO  testCases.TC04_SenderDetailsTest - Entered Time.
+23:04:59.943 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Search after filling the details.
+23:05:04.514 [main] INFO  testCases.TC04_SenderDetailsTest - Selected SUV.
+23:05:07.872 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched lowest price.
+23:05:12.115 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on GiftCards.
+23:05:13.888 [main] INFO  testCases.TC04_SenderDetailsTest - Selected Wedding GiftCard.
+23:05:18.510 [main] INFO  testCases.TC04_SenderDetailsTest - Filled up sender's and recipient's details.
+23:05:19.340 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched Alert message.
+23:05:21.245 [main] INFO  testCases.TC04_SenderDetailsTest - Directed to Hotels page.
+23:05:27.453 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched number of adults.
+23:10:46.694 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+23:10:48.494 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'From' city.
+23:10:50.367 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'To' City.
+23:10:51.305 [main] INFO  testCases.TC04_SenderDetailsTest - Entered date.
+23:10:53.601 [main] INFO  testCases.TC04_SenderDetailsTest - Entered Time.
+23:10:56.590 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Search after filling the details.
+23:10:58.867 [main] INFO  testCases.TC04_SenderDetailsTest - Selected SUV.
+23:11:01.498 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched lowest price.
+23:11:04.672 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on GiftCards.
+23:11:06.330 [main] INFO  testCases.TC04_SenderDetailsTest - Selected Wedding GiftCard.
+23:11:10.561 [main] INFO  testCases.TC04_SenderDetailsTest - Filled up sender's and recipient's details.
+23:11:11.364 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched Alert message.
+23:11:13.534 [main] INFO  testCases.TC04_SenderDetailsTest - Directed to Hotels page.
+23:11:20.264 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched number of adults.
+11:52:37.773 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+12:03:49.316 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+12:07:23.683 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+12:07:26.036 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'From' city.
+12:07:27.813 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'To' City.
+12:07:28.745 [main] INFO  testCases.TC04_SenderDetailsTest - Entered date.
+12:07:31.367 [main] INFO  testCases.TC04_SenderDetailsTest - Entered Time.
+12:07:36.526 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Search after filling the details.
+12:07:38.623 [main] INFO  testCases.TC04_SenderDetailsTest - Selected SUV.
+12:07:41.094 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched lowest price.
+12:07:45.164 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on GiftCards.
+12:07:46.967 [main] INFO  testCases.TC04_SenderDetailsTest - Selected Wedding GiftCard.
+12:07:53.251 [main] INFO  testCases.TC04_SenderDetailsTest - Filled up sender's and recipient's details.
+12:07:54.336 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched Alert message.
+12:07:55.759 [main] INFO  testCases.TC04_SenderDetailsTest - Directed to Hotels page.
+12:08:01.920 [main] INFO  testCases.TC04_SenderDetailsTest - Fetched number of adults.
+12:09:07.144 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+12:09:09.437 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'From' city.
+12:09:51.793 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+12:12:01.258 [main] INFO  testCases.TC01_MmtHomeTest - Clicked on Cabs.
+12:14:16.546 [main] INFO  testCases.TC04_SenderDetailsTest - Clicked on Cabs.
+12:14:18.515 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'From' city.
+12:14:20.324 [main] INFO  testCases.TC04_SenderDetailsTest - Entered 'To' City.
+12:14:21.215 [main] INFO  testCases.TC04_SenderDetailsTest - Entered date.
